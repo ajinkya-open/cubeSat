@@ -6258,6 +6258,244 @@
 		)
 	)
 	(dimension
+		(type leader)
+		(layer "Dwgs.User")
+		(uuid "1bc61819-c02b-44f1-887a-6d05b2e29d6a")
+		(pts
+			(xy 119.792547 107.34) (xy 119.792547 141.8)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 0)
+			(units_format 0)
+			(precision 4)
+			(override_value "5V for external sensors")
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(text_frame 0)
+			(extension_offset 0.5)
+		)
+		(gr_text "5V for external sensors"
+			(at 132.492547 141.8 0)
+			(layer "Dwgs.User")
+			(uuid "1bc61819-c02b-44f1-887a-6d05b2e29d6a")
+			(effects
+				(font
+					(size 1.2 1.2)
+					(thickness 0.12)
+				)
+			)
+		)
+	)
+	(dimension
+		(type leader)
+		(layer "Dwgs.User")
+		(uuid "27807400-766c-4609-8c17-220b02554e55")
+		(pts
+			(xy 63.467547 104.82) (xy 63.467547 145.6)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 0)
+			(units_format 0)
+			(precision 4)
+			(override_value "Multi purpose GPIO")
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(text_frame 0)
+			(extension_offset 0.5)
+		)
+		(gr_text "Multi purpose GPIO"
+			(at 76.167547 145.6 0)
+			(layer "Dwgs.User")
+			(uuid "27807400-766c-4609-8c17-220b02554e55")
+			(effects
+				(font
+					(size 1.2 1.2)
+					(thickness 0.12)
+				)
+			)
+		)
+	)
+	(dimension
+		(type leader)
+		(layer "Dwgs.User")
+		(uuid "3bcf48c5-b25e-4a89-87ab-d1d3769deef5")
+		(pts
+			(xy 110.117547 52.48) (xy 132.597547 30)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 0)
+			(units_format 0)
+			(precision 4)
+			(override_value "LDR sensor")
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(text_frame 0)
+			(extension_offset 0.5)
+		)
+		(gr_text "LDR sensor"
+			(at 145.297547 30 0)
+			(layer "Dwgs.User")
+			(uuid "3bcf48c5-b25e-4a89-87ab-d1d3769deef5")
+			(effects
+				(font
+					(size 1.2 1.2)
+					(thickness 0.12)
+				)
+			)
+		)
+	)
+	(dimension
+		(type leader)
+		(layer "Dwgs.User")
+		(uuid "873ac0d9-4a53-470e-b0e4-d5bfd9164d22")
+		(pts
+			(xy 122.917547 82.01) (xy 135.127547 69.8)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 0)
+			(units_format 0)
+			(precision 4)
+			(override_value "DHT11 sensor ")
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(text_frame 0)
+			(extension_offset 0.5)
+		)
+		(gr_text "DHT11 sensor "
+			(at 147.827547 69.8 0)
+			(layer "Dwgs.User")
+			(uuid "873ac0d9-4a53-470e-b0e4-d5bfd9164d22")
+			(effects
+				(font
+					(size 1.2 1.2)
+					(thickness 0.12)
+				)
+			)
+		)
+	)
+	(dimension
+		(type leader)
+		(layer "Dwgs.User")
+		(uuid "b960084f-18bc-445e-89d0-df783cd7d1cc")
+		(pts
+			(xy 75.157547 53.48) (xy 55.677547 34)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 0)
+			(units_format 0)
+			(precision 4)
+			(override_value "Esp32 wroom board")
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(text_frame 0)
+			(extension_offset 0.5)
+		)
+		(gr_text "Esp32 wroom board"
+			(at 42.977547 34 0)
+			(layer "Dwgs.User")
+			(uuid "b960084f-18bc-445e-89d0-df783cd7d1cc")
+			(effects
+				(font
+					(size 1.2 1.2)
+					(thickness 0.12)
+				)
+			)
+		)
+	)
+	(dimension
+		(type leader)
+		(layer "Dwgs.User")
+		(uuid "c41806ae-9a64-4362-9936-90918dc26074")
+		(pts
+			(xy 104.867547 104.82) (xy 104.867547 156)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 0)
+			(units_format 0)
+			(precision 4)
+			(override_value "GPIO")
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(text_frame 0)
+			(extension_offset 0.5)
+		)
+		(gr_text "GPIO"
+			(at 117.567547 156 0)
+			(layer "Dwgs.User")
+			(uuid "c41806ae-9a64-4362-9936-90918dc26074")
+			(effects
+				(font
+					(size 1.2 1.2)
+					(thickness 0.12)
+				)
+			)
+		)
+	)
+	(dimension
+		(type leader)
+		(layer "Dwgs.User")
+		(uuid "e0afc3c9-1270-475d-aac0-efcf601c421c")
+		(pts
+			(xy 112.267547 64.63) (xy 135.297547 41.6)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 0)
+			(units_format 0)
+			(precision 4)
+			(override_value "3V3 power")
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(text_frame 0)
+			(extension_offset 0.5)
+		)
+		(gr_text "3V3 power"
+			(at 147.997547 41.6 0)
+			(layer "Dwgs.User")
+			(uuid "e0afc3c9-1270-475d-aac0-efcf601c421c")
+			(effects
+				(font
+					(size 1.2 1.2)
+					(thickness 0.12)
+				)
+			)
+		)
+	)
+	(dimension
 		(type radial)
 		(layer "Dwgs.User")
 		(uuid "5e87e086-6b9b-49d8-adcb-e97771e49b88")
