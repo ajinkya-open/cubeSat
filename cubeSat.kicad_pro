@@ -596,7 +596,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "export/",
+      "plot": "export/pcb/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../front/back.step",
