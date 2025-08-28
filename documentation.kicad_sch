@@ -5,4 +5,24 @@
 	(uuid "b8a37840-1180-42aa-971f-4e4491e5ff6b")
 	(paper "A4")
 	(lib_symbols)
+	(text "BACK"
+		(exclude_from_sim no)
+		(at 207.01 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "52a805c8-f247-4300-9d8e-4f20dc33e47f")
+	)
+	(text "FRONT\n"
+		(exclude_from_sim no)
+		(at 92.71 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f1d6a6b6-ac38-4fc4-a0f6-626cd2962539")
+	)
 )
