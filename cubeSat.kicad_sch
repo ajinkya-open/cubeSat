@@ -1,0 +1,18 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "8469cd9a-15fe-4677-a617-64af849f0980")
+	(paper "A4")
+	(title_block
+		(company "FEVINO INDUSTRIES LLP")
+		(comment 1 "PUNE")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
