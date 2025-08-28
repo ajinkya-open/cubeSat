@@ -156,18 +156,4 @@
 			(checksum "41AB67D1E3B89FDE53E264A2433D4BFA")
 		)
 	)
-
-  (gr_line (start 59.500000 97.000000) (end 59.500000 161.000000) (layer Edge.Cuts) (width 0.1))
-  (gr_line (start 61.500000 163.000000) (end 124.500000 163.000000) (layer Edge.Cuts) (width 0.1))
-  (gr_line (start 126.500000 161.000000) (end 126.500000 97.000000) (layer Edge.Cuts) (width 0.1))
-  (gr_line (start 124.500000 95.000000) (end 61.500000 95.000000) (layer Edge.Cuts) (width 0.1))
-  (gr_circle (center 64.500000 100.000000) (end 63.250000 100.000000) (layer Edge.Cuts) (width 0.1))
-  (gr_circle (center 121.500000 100.000000) (end 120.250000 100.000000) (layer Edge.Cuts) (width 0.1))
-  (gr_circle (center 121.500000 158.000000) (end 120.250000 158.000000) (layer Edge.Cuts) (width 0.1))
-  (gr_circle (center 64.500000 158.000000) (end 63.250000 158.000000) (layer Edge.Cuts) (width 0.1))
-  (gr_arc (start 124.500000 95.000000) (mid 125.914214 95.585786) (end 126.500000 97.000000) (layer Edge.Cuts) (width 0.1))
-  (gr_arc (start 59.500000 97.000000) (mid 60.085786 95.585786) (end 61.500000 95.000000) (layer Edge.Cuts) (width 0.1))
-  (gr_arc (start 61.500000 163.000000) (mid 60.085786 162.414214) (end 59.500000 161.000000) (layer Edge.Cuts) (width 0.1))
-  (gr_arc (start 126.500000 161.000000) (mid 125.914214 162.414214) (end 124.500000 163.000000) (layer Edge.Cuts) (width 0.1))
 )
- 
