@@ -9,6 +9,90 @@
 		(comment 1 "PUNE")
 	)
 	(lib_symbols)
+	(sheet
+		(at 33.02 80.01)
+		(size 105.41 16.51)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "81b3d73f-0391-444b-a3b9-7f22423e2446")
+		(property "Sheetname" "SRC"
+			(at 33.02 79.2984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "src.kicad_sch"
+			(at 33.02 97.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "cubeSat"
+				(path "/8469cd9a-15fe-4677-a617-64af849f0980"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 33.02 49.53)
+		(size 105.41 16.51)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "93aa39a4-5eb7-4a9f-8f6d-dc2bd2a376aa")
+		(property "Sheetname" "DOCUMENTATION"
+			(at 33.02 48.8184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "documentation.kicad_sch"
+			(at 33.02 66.6246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "cubeSat"
+				(path "/8469cd9a-15fe-4677-a617-64af849f0980"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
